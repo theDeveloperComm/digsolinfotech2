@@ -1,70 +1,125 @@
-# Getting Started with Create React App
+# Digsol Infotech
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=600px height=250px src="https://digsolinfotech.com/services/comlogo.png" alt="Project logo"></a>
+</p>
 
-## Available Scripts
+<h3 align="center">Digsol Infotech</h3>
 
-In the project directory, you can run:
+<div align="center">
 
-### `npm start`
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
+  [![GitHub Issues](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)]()
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)]()
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+<p align="center"> <br> We will write it soon </br>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📝 Table of Contents
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
 
-### `npm run build`
+## 🧐 About <a name = "about"></a>
+<br> We will write it soon </br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🏁 Getting Started <a name = "getting_started"></a>
+These instructions will get you a copy of the project up and running on your local machine for development and testing. See [deployment](#deployment) for notes on deploying the project on a live system.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
+What things you need to install the software and how to install them.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Visual Studio Code
+- Spring Tool Suite
+- MySQL Workbench
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installing
+A step by step series of examples that tell you how to get a development env running.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Say what the step will be
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Download the VS code from https://code.visualstudio.com/ and run it
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+And repeat
 
-## Learn More
+```
+until finished
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Do the same for Spring Tool Suite and MySQL
+- Download Spring Tool Suite from https://spring.io/tools
+- Download MySQL Workbench from https://www.mysql.com/downloads/
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🔧 Running the tests <a name = "tests"></a>
+Explain how to run the automated tests for this system.
 
-### Analyzing the Bundle Size
+### Break down into end to end tests
+- To run the website, we need to open the terminal in vs code and run the command npm start. It will start the server on localhost.
+- We also need to run the Java Application through Spring Tool Suite.
+- Database through MySQL Workbench.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+<p align="center">
+  <a href="" rel="noopener">
+    <img width=1400px height=500px src="" alt="Project demo">
+    </a>
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<p align="center">
+  <a href="" rel="noopener"><img width=1400px height=500px src="" alt="Project demo"></a>
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+<p align="center">
+  <a href="" rel="noopener"><img width=1400px height=500px src="" alt="Project demo"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener"><img width=1400px height=500px src="" alt="Project demo"></a></p>
+  
+  </p>
+<p align="center">
+  <a href="" rel="noopener"><img width=1400px height=500px src="" alt="Project demo"></a></p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## 🎈 Usage <a name="usage"></a>
+- User first need to sign up in the InstaCart Clone website.
+- Then it needs to sign in with the same user credentials
+- User can Update their profile photo, upload photoes.
+- Users can Search .... etc.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🚀 Deployment <a name = "deployment"></a>
+To deploy the website on live stream, we just need to run "npm start" on the terminal of vs code and run the java application through Spring tool suite and MySQL through MySQL Workbench.
+
+## ⛏️ Built Using <a name = "built_using"></a>
+- [MySQL](https://www.mysql.com/) - Database
+- [ReactJS](https://legacy.reactjs.org/) - Web Framework/Library
+- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Java](https://www.java.com/) - Back End
+- [Spring Boot](https://spring.io/) - Back End Framework
+- [JWT](https://jwt.io/) - Authentication and Authorization
+
+## ✍️ Authors <a name = "authors"></a>
+- [Md Irfan Ansari](https://github.com/irfan9814) - Idea & Initial work
+- [Ajinkya Satkar](https://github.com/ajsat007) - Idea & Initial work
+- [Aniket Garg](https://github.com/javaniket) - Idea & Initial work
+- [Project Repository - Github](https://github.com/ajsat007/InstaCartClone)
+
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+- Inspiration: 
+- References: 
